@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    color: white;
+}
+p{
+    color: red;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Tapestry', cursive;
+}
+div{
+    flex: 100%;
+}

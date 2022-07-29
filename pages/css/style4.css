@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    color: cornsilk;
+}
+p{
+    color: rgb(255, 0, 0);
+}
+
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Tapestry', cursive;
+}
+div{
+    flex: 100%;
+}
